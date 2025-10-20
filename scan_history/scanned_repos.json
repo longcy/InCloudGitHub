@@ -1805,8 +1805,113 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "GibsonAI/memori": {
+      "first_scan": "2025-10-20 03:22:08",
+      "last_scan": "2025-10-20 03:22:08",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "RamazanAljaanov/My_travel": {
+      "first_scan": "2025-10-20 03:22:08",
+      "last_scan": "2025-10-20 03:22:08",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "mingqiwangcn/llama_index": {
+      "first_scan": "2025-10-20 03:22:09",
+      "last_scan": "2025-10-20 03:22:09",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "road-core/service": {
+      "first_scan": "2025-10-20 03:22:09",
+      "last_scan": "2025-10-20 03:22:09",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "YuraYarmola/TelegramAIShop": {
+      "first_scan": "2025-10-20 03:22:09",
+      "last_scan": "2025-10-20 03:22:09",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Rebell-Leader/NutriGuide-AI": {
+      "first_scan": "2025-10-20 03:22:10",
+      "last_scan": "2025-10-20 03:22:10",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "IkkiOcean/Finance_Chatbot": {
+      "first_scan": "2025-10-20 03:22:10",
+      "last_scan": "2025-10-20 03:22:10",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "shaurya1negi/Scheme-Saathi": {
+      "first_scan": "2025-10-20 03:22:10",
+      "last_scan": "2025-10-20 03:22:10",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "leonardoCottet/openai": {
+      "first_scan": "2025-10-20 03:22:11",
+      "last_scan": "2025-10-20 03:22:11",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "wagnerww/LangChain-RAG-LLM-GPT": {
+      "first_scan": "2025-10-20 03:22:11",
+      "last_scan": "2025-10-20 03:22:11",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "mikaelzzzz/AgenteVendas_Karol": {
+      "first_scan": "2025-10-20 03:22:12",
+      "last_scan": "2025-10-20 03:22:12",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "segadamyan/agentic-asr": {
+      "first_scan": "2025-10-20 03:22:12",
+      "last_scan": "2025-10-20 03:22:12",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "lkeygergamer/azykey-intelligent-systems": {
+      "first_scan": "2025-10-20 03:22:12",
+      "last_scan": "2025-10-20 03:22:12",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "nicoleProduct/Interview-Assistant": {
+      "first_scan": "2025-10-20 03:22:13",
+      "last_scan": "2025-10-20 03:22:13",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "SubhMSFT/GenAI-13July2024WebinarRepo": {
+      "first_scan": "2025-10-20 03:22:13",
+      "last_scan": "2025-10-20 03:22:13",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
     }
   },
-  "total_scanned": 258,
-  "last_updated": "2025-10-18 03:47:18"
+  "total_scanned": 273,
+  "last_updated": "2025-10-20 03:22:13"
 }
