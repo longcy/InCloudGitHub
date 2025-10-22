@@ -2008,8 +2008,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "biswajith/texttomql": {
+      "first_scan": "2025-10-22 03:08:37",
+      "last_scan": "2025-10-22 03:08:37",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 287,
-  "last_updated": "2025-10-21 03:44:28"
+  "total_scanned": 288,
+  "last_updated": "2025-10-22 03:08:37"
 }
