@@ -2533,8 +2533,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "Weizhe1215/Paipai_AI_chat": {
+      "first_scan": "2025-11-19 03:09:02",
+      "last_scan": "2025-11-19 03:09:02",
+      "findings_count": 2,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 362,
-  "last_updated": "2025-11-18 03:29:14"
+  "total_scanned": 363,
+  "last_updated": "2025-11-19 03:09:02"
 }
